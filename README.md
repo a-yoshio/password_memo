@@ -1,6 +1,6 @@
 # password_memo
 
-A new Flutter project.
+Flutterキャッチアップ用プロジェクト。パスワード忘れとかを防ぐためのアプリ。
 
 ## Getting Started
 
